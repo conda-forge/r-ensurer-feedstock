@@ -1,11 +1,11 @@
-About r-ensurer
-===============
+About r-ensurer-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ensurer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/smbache/ensurer
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ensurer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Add simple runtime contracts to R values. These ensure that values fulfil certain conditions and will raise appropriate errors if they do not.
 
